@@ -24,12 +24,12 @@ Added comment codes for future development usage.
 
 Link to Horizeon:
 ```
-
+https://ricky0320.github.io/horizeon/Develop/index.html
 ```
 
 Link to GitHub repository.
 ```
-
+https://github.com/ricky0320/horizeon
 ```
 
 
