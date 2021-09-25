@@ -24,7 +24,7 @@ Added comment codes for future development usage.
 
 Link to Horizeon:
 ```
-https://ricky0320.github.io/horizeon/Develop/index.html
+https://ricky0320.github.io/horizeon/
 ```
 
 Link to GitHub repository.
