@@ -1,4 +1,5 @@
 # -- Welcome to Horizeon --
+![ScreenShot](https://user-images.githubusercontent.com/52359914/137686848-ab56d963-87f7-4f53-98ea-93a8fc688fd2.png)
 
 ## This is a project indrocuing Horizeon and debugging some errors from the webpage's base code.
 
