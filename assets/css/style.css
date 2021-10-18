@@ -1,13 +1,14 @@
+/* global styling, if not substituted afterwards. */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* main body styling */
 body {
     background-color: #d9dcd6;
 }
-
+/* header styling */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -19,11 +20,12 @@ header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* target right at span tag */
 span {
     color: #d9dcd6;
 }
-
+/* target nav tage directly and it's children tag instead of from header tag for the following 3 styling classes. */
+/* nav bar to the right side*/
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -35,7 +37,7 @@ nav {
 nav ul {
     list-style-type: none;
 }
-
+/* diplay horizontally*/ 
 nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -50,6 +52,7 @@ p {
     font-size: 16px;
 }
 
+/* maximize space usage of background by width. center image and make size covering the section. */
 .hero {
     height: 800px;
     width: 100%;
@@ -85,7 +88,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/*remove duplicated style and use 1 class instead*/
+/*remove duplicated style and use 1 class instead(duplicated section, img and h2 classes)*/
 .benefit-section {
     margin-bottom: 32px;
     color: #ffffff;
@@ -102,7 +105,7 @@ p {
     max-width: 150px;
 }
 
-
+/*remove duplicated style and use 1 class instead(duplicated section, img and h2 classes)*/
 .notes {
     margin-bottom: 20px;
     padding: 50px;
@@ -120,7 +123,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* footer styling, align horizontally */
 footer {
     padding: 30px;
     clear: both;
